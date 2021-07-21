@@ -64,3 +64,9 @@ to preserve line breaks
     - unordered in ordered
     - ordered in unordered also works
 1. ordered 3
+### Links and images
+\[This\]\(https://www.google.com\) points at google  
+[This}(https://www.google.com) points at google.
+
+\!\[A Pixely Bishop\](https://photos.app.goo.gl/Mrgme3P4iakks6Nw7)  
+![A Pixely Bishop](https://photos.app.goo.gl/Mrgme3P4iakks6Nw7)
