@@ -68,5 +68,5 @@ to preserve line breaks
 \[This\]\(https://www.google.com\) points at google  
 [This}(https://www.google.com) points at google.
 
-\!\[A Pixely Bishop\](https://photos.app.goo.gl/Mrgme3P4iakks6Nw7)  
-![A Pixely Bishop](https://photos.app.goo.gl/Mrgme3P4iakks6Nw7)
+\!\[A Pixely Bishop\]\(https://github.com/konijntjesbroek/templates/blob/master/document/lb2ds.png\)
+![A Pixely Bishop](https://github.com/konijntjesbroek/templates/blob/master/document/lb2ds.png)
