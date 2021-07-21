@@ -32,7 +32,7 @@ directly beloow a heading or contained in a list.
 
 Allowing for smoother flow and grouping of similar ideas.
 
-Use 2 \<space\> characters at the end of a line\<space\>\<space\>
+Use 2 \<space\> characters at the end of a line\<space\>\<space\>  
 to preserve line breaks
 
 Use 2 \<space\> characters at the end of a line   
