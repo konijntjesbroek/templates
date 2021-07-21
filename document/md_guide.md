@@ -49,13 +49,13 @@ to preserve line breaks
     - subitem 2
 - unordered 2
 
-\1. ordered 1  
+1\. ordered 1  
 \<tab\>1. subitem 1  
 \<tab\>3. any number can be used.  
-\1. ordered 2  
+1\. ordered 2  
 \<tab\>- unordered in ordered  
 \<tab\>- ordered in unordered also works  
-\1. ordered 3  
+1\. ordered 3  
 
 1. ordered 1
     1. subitem 1
