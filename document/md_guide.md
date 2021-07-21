@@ -37,3 +37,30 @@ to preserve line breaks
 
 Use 2 \<space\> characters at the end of a line   
 to preserve line breaks
+
+### Lists
+\- unordered 1  
+\<tab\>- subitem 1  
+\<tab\>- subitem 2  
+\- unordered 2  
+
+- unordered 1
+    - subitem 1
+    - subitem 2
+- unordered 2
+
+\1. ordered 1  
+\<tab\>1. subitem 1  
+\<tab\>3. any number can be used.  
+\1. ordered 2  
+\<tab\>- unordered in ordered  
+\<tab\>- ordered in unordered also works  
+\1. ordered 3  
+
+1. ordered 1
+    1. subitem 1
+    3. any number can be used.
+1. ordered 2
+    - unordered in ordered
+    - ordered in unordered also works
+1. ordered 3
