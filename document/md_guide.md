@@ -11,7 +11,9 @@ _H1, H5, H6_ -- not used
 \_italics\_ -- _italics_ used for document info and references  
 \*\*bold\*\* -- **bold** used for emphasis within the text  
 ### Quotes
-'Direct quote less than a line" -- citation  
+'Direct quote less than a line" \_-- citation\_  
+'Direct quote less than a line" _-- citation_  
+
 \> direct quote  
 \> for more than a single  line  
 \>  
@@ -24,4 +26,14 @@ _H1, H5, H6_ -- not used
 > including breaks  
 > _-- citation_  
 
+### Paragraphs and line breaks
+Use a blank line to separate a paragraph from previous text unless it is
+directly beloow a heading or contained in a list. 
 
+Allowing for smoother flow and grouping of similar ideas.
+
+Use 2 \<space\> characters at the end of a line\<space\>\<space\>
+to preserve line breaks
+
+Use 2 \<space\> characters at the end of a line   
+to preserve line breaks
