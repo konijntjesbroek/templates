@@ -1,7 +1,7 @@
 ## Project README Template
 _created by_: Arlo Gittings  
 _created on_: 2021-07-19  
-_last modified_: 2021-07-20
+_last modified_: 2024-04-07
 ### Description
 Project templates for every occasion. I am a firm believer that the key to 
 solving a complex issue is to identify the problem and begin to disect it into
@@ -66,3 +66,6 @@ vim plan.md
 Replace \<project type\> with the correct template, Most of the time, this will be
 'project'.
 Replace \<project name\> with the name of the project you are spinning up.
+
+### Special Notes
+If you are using this on codepen which requires changelog to be an md file, use the triple backtick to force it to plaintext
