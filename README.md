@@ -25,8 +25,8 @@ capture the change as it was committed. Log often, even the smallest change can
 completely reshape a project.
 
 My format
-YYYY-MM-DD  HHMM  what was done to wich file/function  Changemaker's Name/ID
-
+```YYYY-MM-DD  HHMM  what was done to wich file/function  Changemaker's Name/ID
+````
 The license I work under is the GPL, unless otherwise noted. I have a copy of
 the version which I am working under tied to the project.
 
