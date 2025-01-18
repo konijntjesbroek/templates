@@ -48,8 +48,8 @@ its format, and the reasoning and contents for each section.
     - the separator
         - allows for quick alignment with tabstops to 80 characters
         - loaded into init.vim
-            - inoremap \<leadeu\>tsep <esc>10=== --- <esc>A
-            - ;tsep generates a fullwidth separator
+            - inoremap \<leader\>sep <esc>10=== --- <esc>A
+            - ;sep generates a fullwidth separator
             - for each tabstop, delete one layer off the end.
             - by alternating === --- it allows to quickly center tabular data
 - document
